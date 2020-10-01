@@ -1,0 +1,17 @@
+
+body {
+    font: $main-font;
+    font-size: $main-font-size;
+
+    background-color: $main-bg-color;
+
+    margin: 0;
+    border: 0;
+   
+    }
+.box {
+    width: 30px;
+    height: 30px;
+
+    @include roundCorners(8px);
+}
