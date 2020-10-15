@@ -1,32 +1,25 @@
 export default {
-    Trevor:{
-    name: "Trevor",
-    role: "Killer",
-    nickname: "Tervor"
-    }, 
+    Justin: {
+        name: "Justin",
+        role: "Coordinator",
+        nickname: "i don't know"
+    },
 
-    John:{
+    John: {
         name: "John",
         role: "super chill prof",
-        nickname: "Johnhnhr"
-        }, 
+        nickname: "just john"
+    },
 
-    Joe:{
-    name: "Joe",
-    role: "Prof",
-    nickname: "Teddy Bear"
-    }, 
+    Joe: {
+        name: "Joe",
+        role: "Prof",
+        nickname: "Teddy Bear"
+    },
 
-    Pan:{
+    Pan: {
         name: "Pan",
-        role: "Code ninja",
+        role: "Code Ninja",
         nickname: "Spider Pan"
-        }, 
-
-        Jarrod:{
-            name: "Jarrod",
-            role: "Male Model Prof",
-            nickname: "Zoolander"
-            }
-
+    }    
 }
